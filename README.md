@@ -1,1 +1,1 @@
-# Stone-Paper-Scissoer
+# Stone-Paper-Scissor
